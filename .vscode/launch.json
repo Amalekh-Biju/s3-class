@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "traffic",
+      "request": "launch",
+      "mainClass": "traffic",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "Calcu",
+      "request": "launch",
+      "mainClass": "Calcu",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "BankTransaction",
+      "request": "launch",
+      "mainClass": "BankTransaction",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "syncro",
+      "request": "launch",
+      "mainClass": "syncro",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "multithread2",
+      "request": "launch",
+      "mainClass": "multithread2",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "randomthread",
+      "request": "launch",
+      "mainClass": "randomthread",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "fileread",
+      "request": "launch",
+      "mainClass": "fileread",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "filewriter",
+      "request": "launch",
+      "mainClass": "filewriter",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
+      "name": "stringtoken",
+      "request": "launch",
+      "mainClass": "stringtoken",
+      "projectName": "s3-class_5c18c834"
+    },
+    {
+      "type": "java",
       "name": "odd",
       "request": "launch",
       "mainClass": "odd",
@@ -92,8 +155,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/nihalzown/Documents/GitHub/s3-class/c prgms",
-      "program": "/home/nihalzown/Documents/GitHub/s3-class/c prgms/build/Debug/outDebug",
+      "cwd": "/home/nihalzown/Documents/GitHub/s3-class/exam",
+      "program": "/home/nihalzown/Documents/GitHub/s3-class/exam/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
